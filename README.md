@@ -1,0 +1,1 @@
+# jquery-hw-1-searcharea-and-sidebar
